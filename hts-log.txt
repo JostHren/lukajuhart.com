@@ -1,0 +1,60 @@
+HTTrack3.49-2 launched on Tue, 17 Mar 2026 21:21:54 at https://www.lukajuhart.com
+(httrack https://www.lukajuhart.com -O ./luka-v2/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:22:14	Error: 	"Forbidden" (403) at link https://www.lukajuhart.com/xmlrpc.php?rsd (from https://www.lukajuhart.com/)
+23:48:27	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=10
+23:48:27	Warning: 	File has moved from https://www.lukajuhart.com/?p=10 to https://www.lukajuhart.com/?page_id=10
+23:48:27	Error: 	"Forbidden" (403) at link https://www.lukajuhart.com/xmlrpc.php (from https://www.lukajuhart.com/?page_id=10)
+23:52:48	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=21
+23:52:48	Warning: 	File has moved from https://www.lukajuhart.com/?p=21 to https://www.lukajuhart.com/?page_id=21
+23:52:48	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=227
+23:52:48	Warning: 	File has moved from https://www.lukajuhart.com/?p=227 to https://www.lukajuhart.com/?page_id=227
+23:53:08	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=96
+23:53:08	Warning: 	File has moved from https://www.lukajuhart.com/?p=96 to https://www.lukajuhart.com/?page_id=96
+23:53:08	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(6).jpg (from https://www.lukajuhart.com/?page_id=96)
+23:53:08	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(5).jpg (from https://www.lukajuhart.com/?page_id=96)
+23:53:08	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(4).jpg (from https://www.lukajuhart.com/?page_id=96)
+00:15:28	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(3).jpg (from https://www.lukajuhart.com/?page_id=96)
+00:32:37	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(2).jpg (from https://www.lukajuhart.com/?page_id=96)
+00:32:37	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(1).jpg (from https://www.lukajuhart.com/?page_id=96)
+00:32:37	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.lukajuhart.com/?feed=rss2&page_id=61 (from https://www.lukajuhart.com/?page_id=61)
+01:06:20	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.lukajuhart.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.lukajuhart.com%2F%3Fpage_id%3D61 (from https://www.lukajuhart.com/?page_id=61)
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=61
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=61 to https://www.lukajuhart.com/?page_id=61
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=64
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=64 to https://www.lukajuhart.com/?page_id=64
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=82
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=82 to https://www.lukajuhart.com/?page_id=82
+01:24:09	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.lukajuhart.com/?feed=rss2&page_id=85 (from https://www.lukajuhart.com/?page_id=85)
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=85
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=85 to https://www.lukajuhart.com/?page_id=85
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=113
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=113 to https://www.lukajuhart.com/?page_id=113
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=110
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=110 to https://www.lukajuhart.com/?page_id=110
+01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=392
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=392 to https://www.lukajuhart.com/?page_id=392
+01:24:09	Warning: 	File not parsed, looks like binary: https://www.lukajuhart.com/wp-content/plugins/simple-lightbox-gallery/css/font-awesome-latest/webfonts/fa-brands-400.woff2
+01:24:10	Warning: 	File not parsed, looks like binary: https://www.lukajuhart.com/wp-content/plugins/simple-lightbox-gallery/css/font-awesome-latest/webfonts/fa-regular-400.woff2
+01:24:10	Warning: 	File not parsed, looks like binary: https://www.lukajuhart.com/wp-content/plugins/simple-lightbox-gallery/css/font-awesome-latest/webfonts/fa-solid-900.woff2
+01:24:10	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(6).jpg (from https://www.lukajuhart.com/?page_id=96)
+01:24:10	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(5).jpg (from https://www.lukajuhart.com/?page_id=96)
+01:41:03	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(4).jpg (from https://www.lukajuhart.com/?page_id=96)
+01:58:54	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(3).jpg (from https://www.lukajuhart.com/?page_id=96)
+02:31:06	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(2).jpg (from https://www.lukajuhart.com/?page_id=96)
+02:47:22	Warning: 	Retry after error -2 (Receive Time Out) at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(1).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:21:18	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.lukajuhart.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.lukajuhart.com%2F%3Fpage_id%3D61 (from https://www.lukajuhart.com/?page_id=61)
+03:21:18	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(6).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:21:18	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(5).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:21:18	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(4).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:21:18	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(3).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:46:46	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(2).jpg (from https://www.lukajuhart.com/?page_id=96)
+03:46:46	Error: 	"Receive Time Out" (-2) after 2 retries at link www.lukajuhart.com/wp-content/uploads/2018/05/full/LukaJuhart2018(1).jpg (from https://www.lukajuhart.com/?page_id=96)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 hours 24 minutes 52 seconds : 164 links scanned, 128 files written (15896780 bytes overall) [52241149 bytes received at 2262 bytes/sec], 898643 bytes transferred using HTTP compression in 12 files, ratio 30%, 1.3 requests per connection
+(8 errors, 41 warnings, 0 messages)
