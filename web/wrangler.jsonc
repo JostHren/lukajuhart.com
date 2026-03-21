@@ -11,7 +11,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "routes": [
     {
-      "pattern": "shop.example.com",
+      "pattern": "lukajuhart.com",
       "custom_domain": true
     }
   ]}
