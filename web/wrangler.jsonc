@@ -8,5 +8,10 @@
   "assets": {
     "directory": "."
   },
-  "compatibility_flags": ["nodejs_compat"]
-}
+  "compatibility_flags": ["nodejs_compat"],
+  "routes": [
+    {
+      "pattern": "shop.example.com",
+      "custom_domain": true
+    }
+  ]}
