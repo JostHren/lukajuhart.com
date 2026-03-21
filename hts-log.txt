@@ -30,9 +30,9 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=64 to https://www.lukajuhart.com/?page_id=64
 01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=82
 01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=82 to https://www.lukajuhart.com/?page_id=82
-01:24:09	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.lukajuhart.com/?feed=rss2&page_id=85 (from https://www.lukajuhart.com/?page_id=85)
+01:24:09	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.lukajuhart.com/?feed=rss2&page_id=85 (from https://www.lukajuhart.com/contact.html)
 01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=85
-01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=85 to https://www.lukajuhart.com/?page_id=85
+01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=85 to https://www.lukajuhart.com/contact.html
 01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=113
 01:24:09	Warning: 	File has moved from https://www.lukajuhart.com/?p=113 to https://www.lukajuhart.com/?page_id=113
 01:24:09	Warning: 	Moved Permanently for https://www.lukajuhart.com/?p=110
